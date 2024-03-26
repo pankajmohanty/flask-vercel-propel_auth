@@ -1,4 +1,5 @@
 # /requirements.txt
 
 flask==3.0.0
+propelauth_flask
 # other required dependencies
